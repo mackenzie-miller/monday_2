@@ -6,6 +6,8 @@ class MovieResource < ApplicationResource
 
   # Direct associations
 
+  belongs_to :director
+
   # Indirect associations
 
 end
