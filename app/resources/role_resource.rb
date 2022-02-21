@@ -12,5 +12,4 @@ class RoleResource < ApplicationResource
   belongs_to :actor
 
   # Indirect associations
-
 end
